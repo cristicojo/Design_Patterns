@@ -1,0 +1,8 @@
+.idea
+out
+src/Strategy2_DP
+src/Builder2_DP
+/src/FactoryBec_DP/
+/src/FactoryShape_DP/.idea
+*.DS_Store
+
